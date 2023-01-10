@@ -1,0 +1,87 @@
+*{
+  box-sizing: border-box;
+  background: #080845;
+}
+.navbar {
+  display: flex;
+}
+.menu {
+  margin: 0 8rem;
+}
+.text{
+  padding-top: 10px;
+}
+.row1{
+  margin: 15px;
+  padding: 15px;
+  width: auto;
+  height: fit-content;
+}
+.column1 {
+  float: left;
+  width: 50%;
+  height: fit-content;
+  padding: 0 10 0 10px;
+}
+.card1{
+  padding: 10px;
+  text-align: center;
+  height: 200px;
+  text-align: start;
+}
+#bt1{
+  height: 50px;
+  width: 90px;
+  background-color: red;
+}
+.container{
+  margin-top: -10px;
+  height: 200px;
+}
+.row{
+  margin: 20px;
+  padding: 30px;
+}
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 10 0 10px;
+}
+.card{
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  height: 300px;
+  background-color: black
+}
+img{
+  height: 75px;
+  width: 75px;
+}
+.nav
+{
+  width: 500px;
+  float: right;
+}
+.text{
+  text-align: center;
+  color: white;
+}
+p, h3, button{
+  color: white;
+}
+button:hover{
+  color: aquamarine;
+}
+button{
+  border: none;
+}
+hr{
+  color: wheat;
+}
+h2{
+  color: blueviolet;
+}
+span{
+  color: yellow;
+}
